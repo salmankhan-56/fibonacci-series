@@ -1,2 +1,2 @@
-print("Welcome to fibonacci-series")
-print("This is the main program file.")
+print("Project: fibonacci-series")
+print("Main program executed successfully.")
